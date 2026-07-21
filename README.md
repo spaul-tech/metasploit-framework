@@ -7,3 +7,4 @@ A structured collection of my notes, commands, modules, and practical labs while
 ## 📚 Topics Covered
 
 - 📌 [Introduction to Metasploit](01-Introduction/)
+- ⚙️ [msfconsole Basics](02-msfconsole-basics/)
