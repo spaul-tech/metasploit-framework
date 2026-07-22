@@ -8,3 +8,4 @@ A structured collection of my notes, commands, modules, and practical labs while
 
 - 📌 [Introduction to Metasploit](01-Introduction/)
 - ⚙️ [msfconsole Basics](02-msfconsole-basics/)
+- 📦 [Modules](03-Modules/)
